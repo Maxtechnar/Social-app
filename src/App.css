@@ -1,0 +1,22 @@
+.body{
+margin: 0;
+padding: 0;
+width: 100%;
+background-color: #dce1e6;
+height: 1400px;
+position: absolute;
+}
+
+.side{
+    justify-content: center;
+}
+
+.nav{
+    position: absolute;
+    justify-content: center;
+}
+
+
+
+
+

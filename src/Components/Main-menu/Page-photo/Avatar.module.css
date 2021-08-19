@@ -1,0 +1,26 @@
+.photo{
+    background-color: white;
+    width: 250px;
+    height: 340px;
+    border-radius: 3%;
+}
+
+.photo img{
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.photo button {
+    width: 200px;
+    height: 40px;
+    background-color: #dce1e6;
+    margin-top: 250px;
+    margin-left: -200px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.photo button:active{
+    background-color: #c3c7cc;
+}

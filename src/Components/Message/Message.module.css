@@ -1,0 +1,39 @@
+.message{
+    position: absolute;
+    width: 690px;
+    height: 500px;
+    background-color: white;
+    margin-top: 85px;
+    border-radius: 3%;
+    display: grid;
+    grid-template-columns: 2fr 7fr;
+    margin-left: 800px;
+    margin-top: 30px;
+}
+
+.user{
+    padding-top: 1px;
+}
+
+.user a{
+    text-decoration: none;
+    color: black;
+}
+
+.user a:active{
+    color: blue;
+}
+
+.dialogs__items{
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.dialogs{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.dialog{
+    padding-top: 10px;
+}

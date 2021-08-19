@@ -1,0 +1,30 @@
+.block a{
+    text-decoration: none;
+    color: black;
+}
+
+.photo{
+    position: absolute;
+    background-color: white;
+    width: 410px;
+    height: 180px;
+    margin-top: 310px;
+    margin-left: -410px ;
+    border-radius: 3%;
+}
+
+
+.photo h5{
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.photo img{
+    padding-left: 15px;
+    display: inline-block;
+    margin-top: 10px;
+    height: 80px;
+    width: 80px;
+    
+}

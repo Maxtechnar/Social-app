@@ -1,0 +1,54 @@
+.info{
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
+.page{
+    background-color: white;
+    width: 380px;
+    height: 290px;
+    margin-left: 30px;
+    border-radius: 3%;
+    padding-left: 30px;
+}
+
+.page h3{
+   text-align: center;
+   margin-bottom: 20px;
+}
+
+.line{
+    border-bottom: 1px solid gray;
+    width: 340px;
+    margin-bottom: 20px;
+}
+
+.label{
+    display: flex;
+    padding-top: 15px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.label a{
+    text-decoration: none;
+    color: blue;
+    padding-left: 5px;
+}
+
+.label a:hover{
+    border-bottom: 1px black solid;
+}
+
+.button button{
+    width: 350px;
+    height: 30px;
+    margin-top: -5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button button:hover{
+    background-color:#dce1e6 ;
+    border-radius: 5px;
+}
